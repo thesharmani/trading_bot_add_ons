@@ -1,1 +1,1 @@
-# trading_bot_add_ons
+# Trading_bot_frontend
